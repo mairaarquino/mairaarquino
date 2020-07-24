@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maiarquino_dev?label=Follow)](https://twitter.com/maiarquino_dev)
@@ -12,6 +13,9 @@ My name is Maíra Arquino. I'm back-end developer.
      - Also: Docker, TDD, Scrum, AWS, Jenkins
      
  - 📖 Learning: Cloud Computing, Clean Code, Design Patterns & Angular.js
+ 
+ ![](https://github.com/mairaarquino/mairaarquino/blob/master/programmer.png)
+
 <!--
 **mairaarquino/mairaarquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
