@@ -1,5 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/maiarquino_dev?label=Follow)](https://twitter.com/maiarquino_dev)
+[![Linkedin: lhs-santos](https://img.shields.io/badge/-Ma%C3%ADra%20Arquino-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/mairaarquino/)](https://www.linkedin.com/in/mairaarquino/)
+
+My name is Maíra Arquino. I'm back-end developer.
+
+ - 💻 Tech Skills: 
+     - PHP: Laravel, CodeIgniter
+     - Javascript: Node.js, Typescript, Express, Angular.js
+     - Databases: MongoDB, SQLServer, MySQL, PostgreSQL
+     - Also: Docker, TDD, Scrum, AWS, Jenkins
+     
+ - 📖 Learning: Cloud Computing, Clean Code, Design Patterns & Angular.js
 <!--
 **mairaarquino/mairaarquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
