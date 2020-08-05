@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/maiarquino_dev?label=Maira%20Arquino)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Ma%C3%ADra%20Arquino-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/mairaarquino/)](https://www.linkedin.com/in/mairaarquino/)
-[![Gmail Badge](https://img.shields.io/badge/-maira.arquino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maira.arquino@gmail.com)](mailto:maira.arquino@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maira.arquiino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maira.arquiino@gmail.com)](mailto:maira.arquiino@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
  -  **Learning :** Typescript, Angular :zap: | Cloud Computing :fire:	
