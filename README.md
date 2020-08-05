@@ -1,22 +1,17 @@
 
-## Hi there 👋
+### Maira Arquino 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/maiarquino_dev?label=Follow)](https://twitter.com/maiarquino_dev)
+![Twitter Follow](https://img.shields.io/twitter/follow/maiarquino_dev?label=Maira%20Arquino)
 [![Linkedin: lhs-santos](https://img.shields.io/badge/-Ma%C3%ADra%20Arquino-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/mairaarquino/)](https://www.linkedin.com/in/mairaarquino/)
-
-My name is Maíra Arquino. I'm back-end developer.
-
- - 💻 Tech Skills: 
-     - PHP: Laravel, CodeIgniter
-     - Javascript: Node.js, Typescript, Express, Angular.js
-     - Databases: MongoDB, SQLServer, MySQL, PostgreSQL
-     - Also: Docker, TDD, Scrum, AWS, Jenkins
-     
- - 📖 Learning: Cloud Computing, Clean Code, Design Patterns & Angular.js
+[![Gmail Badge](https://img.shields.io/badge/-maira.arquino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maira.arquino@gmail.com)](mailto:maira.arquino@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+ -  **Learning :** Typescript, Angular :zap: | Cloud Computing :fire:	
+ -  **Languages :** JavaScript, PHP
+ -  **Skills :** Laravel, Node.js, SQL Databases, Docker, TDD
+ -  **Hobbies :** Books & Music :headphones:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mairaarquino&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mairaarquino)](https://github.com/anuraghazra/github-readme-stats)
- 
- ![](https://github.com/mairaarquino/mairaarquino/blob/master/programmer.png)
 
 <!--
 **mairaarquino/mairaarquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
