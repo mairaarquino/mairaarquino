@@ -14,6 +14,8 @@ My name is Maíra Arquino. I'm back-end developer.
      
  - 📖 Learning: Cloud Computing, Clean Code, Design Patterns & Angular.js
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mairaarquino&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mairaarquino)](https://github.com/anuraghazra/github-readme-stats)
+ 
  ![](https://github.com/mairaarquino/mairaarquino/blob/master/programmer.png)
 
 <!--
