@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-maira.arquiino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maira.arquiino@gmail.com)](mailto:maira.arquiino@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
- -  **Learning :** Typescript, Angular :zap: | Design Patterns, Functional Programming, Cloud Computing :fire:	
- -  **Languages :** JavaScript, PHP :heart:
- -  **Skills :** Laravel, Node.js, SQL Databases, Docker, TDD, POO :gem:
+ -  **Learning :** Cloud Computing :cloud: | Design Patterns :fire: | Security :lock:	
+ -  **Languages :** JavaScript, PHP :computer:
+ -  **Skills :** Laravel, Node.js, SQL Databases, Docker, TDD, POO, Shell Script :gem:
  -  **Hobbies :** Books :book: | Music :headphones:
  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mairaarquino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![](https://github-readme-stats.vercel.app/api?username=mairaarquino&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
